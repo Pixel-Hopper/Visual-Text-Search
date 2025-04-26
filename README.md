@@ -3,7 +3,7 @@
 
 2. Run the script by double-clicking the .bat file.
 
-3. Drag and drop or browse to select the images you want to search.
+3. Browse to select the images you want to search.
 
 4. Enter the text you want to find.
 
@@ -19,7 +19,7 @@
     pip install easyocr torch pillow
 
 ## 🌟 Features
-1. Drag-and-drop or browse multiple image files
+1. Browse multiple image files
 
 2. Live preview of selected images
 
@@ -32,13 +32,13 @@
 6. GPU acceleration support for faster OCR (if available)
 
 ## 🌟 Attribution
-Tkinter: A GUI library for Python, essential for building the app's user interface. Tkinter
+Tkinter: A GUI library for Python, essential for building the app's user interface. [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
-EasyOCR: A deep learning-based OCR engine, great for text detection. EasyOCR
+EasyOCR: A deep learning-based OCR engine, great for text detection. [EasyOCR](https://pypi.org/project/easyocr/)
 
-PyTorch: Powers the EasyOCR models with GPU acceleration. PyTorch
+PyTorch: Powers the EasyOCR models with GPU acceleration. [PyTorch](https://pytorch.org/)
 
-Pillow: A Python Imaging Library for image processing tasks. Pillow
+Pillow: A Python Imaging Library for image processing tasks. [Pillow](https://pypi.org/project/pillow/)
 
 ## 🌟 About Me
-Artist that likes to code when my textures are baking. Artstation
+Artist that likes to code when my textures are baking. [Artstation](https://www.artstation.com/jaimerodriguez)
