@@ -1,35 +1,35 @@
 ## 🚀 Instructions
-Keep both the Python script and the batch (.bat) file in any folder.
+1. Keep both the Python script and the batch (.bat) file in any folder.
 
-Run the script by double-clicking the .bat file.
+2. Run the script by double-clicking the .bat file.
 
-Drag and drop or browse to select the images you want to search.
+3. Drag and drop or browse to select the images you want to search.
 
-Enter the text you want to find.
+4. Enter the text you want to find.
 
-Click "Search" to scan all selected images.
+5. Click "Search" to scan all selected images.
 
-The found text will be highlighted, and matching images will open automatically.
+6. The found text will be highlighted, and matching images will open automatically.
 
 ## 🌟 Requirements
-Python - Make sure Python is installed on your system.
+1. Python - Make sure Python is installed on your system.
 
-Dependencies - Install the required Python packages by running:
+2. Dependencies - Install the required Python packages by running:
     ```bash
     pip install easyocr torch pillow
 
 ## 🌟 Features
-Drag-and-drop or browse multiple image files
+1. Drag-and-drop or browse multiple image files
 
-Live preview of selected images
+2. Live preview of selected images
 
-Search across multiple images at once
+3. Search across multiple images at once
 
-Highlight matched text areas on images
+4. Highlight matched text areas on images
 
-Zoom and pan in the result viewer
+5. Zoom and pan in the result viewer
 
-GPU acceleration support for faster OCR (if available)
+6. GPU acceleration support for faster OCR (if available)
 
 ## 🌟 Attribution
 Tkinter: A GUI library for Python, essential for building the app's user interface. Tkinter
