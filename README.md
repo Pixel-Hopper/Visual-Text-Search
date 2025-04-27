@@ -14,9 +14,7 @@
 ## 🌟 Requirements
 1. Python - Make sure Python is installed on your system.
 
-2. Dependencies - Install the required Python packages by running:
-    ```bash
-    pip install easyocr torch pillow
+2. Dependencies - Install the required Python packages by running: **<code>pip install PyMuPDF tkinterdnd2</code>**
 
 ## 🌟 Features
 1. Browse multiple image files
